@@ -1,0 +1,30 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+button{
+    border: none;
+    background: transparent;
+    font-size: 4rem;
+    cursor: pointer;
+    
+}
+
+button:hover{
+    transform: translateY(-10px);
+}
+
+h1{
+    margin: 1em;
+    font-size: 2rem;
+}
