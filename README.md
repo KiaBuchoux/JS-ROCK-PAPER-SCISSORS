@@ -3,7 +3,7 @@
 ![scrrenshot](screenshot.png)
 
  Basic JS
-I find this is a great exercise to practise lots of JS methods and functions: 
+I find this is a great exercise to practise lots of JS methods: 
 
 - .map() methods to mapover an array
 - .append() method, used to add an element in form of a Node object or a DOMString (text)
