@@ -1,6 +1,8 @@
 # JS-ROCK-PAPER-SCISSORS
- Basic JS 
+ 
 ![scrrenshot](screenshot.png)
+
+ Basic JS
 I find this is a great exercise to practise lots of JS methods and functions: 
 
 - .map() methods to mapover an array
